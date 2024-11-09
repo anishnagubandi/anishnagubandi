@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 ##I am currently a student in my first year at IIIT-B🔭
+
 ##I am currently working on my 'C' project
 
 <!--
