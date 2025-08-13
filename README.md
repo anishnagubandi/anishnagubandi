@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-##I am currently a student in my first year at IIIT-B🔭
+##I am currently a student in my second year at IIIT-B🔭
 
-##I am currently working on my 'C' project
+##I am currently focusing on my studies
 
 <!--
 **anishnagubandi/anishnagubandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
