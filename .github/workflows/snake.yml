@@ -64,7 +64,7 @@ jobs:
 
           # Define the output files and their configurations
 
-          outputs: |
+          outputs: 
 
             dist/github-snake.svg
 
