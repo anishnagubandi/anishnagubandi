@@ -2,7 +2,7 @@
 
 ### I am currently a student in my second year at IIIT-B 🔭
 
-### I am currently focusing on exploring the hacktober fest 🌊
+### I am currently focusing on Upskilling and contributing.
 
 
 
