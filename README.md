@@ -4,7 +4,7 @@
 
 ### I am currently focusing on Upskilling and contributing.
 
-
+### I have got into gssoc. my profile link: https://gssoc.girlscript.org/profile/908ae608-bf16-4e69-a96e-51f51f26b825
 
 
 
