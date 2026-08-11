@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I am currently a student in my second year at IIIT-B 🔭
+### I am currently a student in my third year at IIIT-B 🔭
 
 ### I am currently focusing on Upskilling and contributing.
 
