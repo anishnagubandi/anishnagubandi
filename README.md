@@ -4,19 +4,7 @@
 
 ### I am currently focusing on Upskilling and contributing.
 
-### I have got into gssoc. my profile link: https://gssoc.girlscript.org/profile/908ae608-bf16-4e69-a96e-51f51f26b825
-
-
-
 [![An image of @anishnagubandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishnagubandi)](https://holopin.io/@anishnagubandi)
-
-
-
-<div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=anishnagubandi&theme=radical&hide_border=false)<br/>
-![snake gif](https://github.com/anishnagubandi/anishnagubandi/blob/output/github-snake-dark.svg)
-</div>
 
 ## 🧩 Skills:
 
