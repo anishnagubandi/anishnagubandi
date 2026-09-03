@@ -6,6 +6,15 @@
 
 [![An image of @anishnagubandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishnagubandi)](https://holopin.io/@anishnagubandi)
 
+
+
+
+<div align="center">
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=anishnagubandi&theme=radical&hide_border=false)<br/>
+</div>
+
+
 ## 🧩 Skills:
 
 ### 💻 Languages:
